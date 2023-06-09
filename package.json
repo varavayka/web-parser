@@ -1,0 +1,16 @@
+{
+  "name": "web-parser",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon main.mjs",
+    "start": "node main.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "nodemon": "^2.0.22"
+  }
+}
